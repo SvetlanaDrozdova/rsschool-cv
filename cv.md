@@ -1,32 +1,33 @@
-#**Svetlana Drozdova** ![Hi!](/racoon.jpg/150x150"Hi!") 
+# **Svetlana Drozdova** ![Hi!](/racoon.jpg/150x150"Hi!") 
 
-##Contact## 
+## Contact
 *sdrozdova032@gmail.com*
 
-##Summary##
+## Summary
 I haven't got wide experience in web-programming. So my goal is to perfect my knowledge of web-programming languages and to gain new skills by taking this course.
 
-##Education##
+## Education
 Povolzhskiy State University of Telecommunications and Informatics, Information Systems and Technologies Department
 
-##Courses:##
+## Courses
 HTML Academy
 
-##English level## B1 UPPER INTERMEDIATE
+## English level
+B1 UPPER INTERMEDIATE
 
-##Work Experience##
+## Work Experience
 IT Specialist, 2014 - present
 Maintain of 100 plus PC's in office and distant filial branches.
 Provide assistance in computer software and hardware troubleshooting.
 Eliminate system security violations, malware and virus attacks.
 
-##Technical skills## HTML, CSS, VS Code, Photoshop, Figma, Inkscape, VSDC(Free Video Editor)
+## Technical skills
+HTML, CSS, VS Code, Photoshop, Figma, Inkscape, VSDC(Free Video Editor)
 
-##Personal qualities## eager to learn, highly organized, hard-
+## Personal qualities
+eager to learn, highly organized, hard-working, purposful, communicative with good sence of humor.
 
-working, purposful, communicative with good sence of humor.
-
-##Code examples##
+## Code examples
 ```function isPalindrome(str) {
     let strLen = str.length;
     let result = '';
