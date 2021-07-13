@@ -1,5 +1,4 @@
-![Hi!](/racoon.jpg) 
-# **Svetlana Drozdova**#
+#**Svetlana Drozdova** ![Hi!](/racoon.jpg/150x150"Hi!") 
 
 ##Contact## 
 *sdrozdova032@gmail.com*
