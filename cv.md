@@ -1,43 +1,33 @@
-![Hi!](C:\Users\Пользоватль\Desktop\2021\rsschool-cv\racoon.jpg/150x100) 
-# **Svetlana Drozdova**
+![Hi!](/racoon.jpg) 
+# **Svetlana Drozdova**#
 
-1. ##Contact 
-  *sdrozdova032@gmail.com*
+##Contact## 
+*sdrozdova032@gmail.com*
 
-1. ##Summary
-I haven't got wide experience in web-programming. So my goal is to 
+##Summary##
+I haven't got wide experience in web-programming. So my goal is to perfect my knowledge of web-programming languages and to gain new skills by taking this course.
 
-perfect my knowledge of web-programming languages and to gain new 
+##Education##
+Povolzhskiy State University of Telecommunications and Informatics, Information Systems and Technologies Department
 
-skills by taking this course.
-
-1. ##Education
-Povolzhskiy State University of Telecommunications and Informatics, 
-
-Information Systems and Technologies Department
-
-1. ##Courses:
+##Courses:##
 HTML Academy
 
-1. ##English level: B1 UPPER INTERMEDIATE
+##English level## B1 UPPER INTERMEDIATE
 
-1. ##Work Experience
+##Work Experience##
 IT Specialist, 2014 - present
 Maintain of 100 plus PC's in office and distant filial branches.
-Provide assistance in computer software and hardware 
-
-troubleshooting.
+Provide assistance in computer software and hardware troubleshooting.
 Eliminate system security violations, malware and virus attacks.
 
-1. ##Technical skills: HTML, CSS, VS Code, Photoshop, Figma, 
+##Technical skills## HTML, CSS, VS Code, Photoshop, Figma, Inkscape, VSDC(Free Video Editor)
 
-Inkscape, VSDC(Free Video Editor)
-
-1. ##Personal qualities: eager to learn, highly organized, hard-
+##Personal qualities## eager to learn, highly organized, hard-
 
 working, purposful, communicative with good sence of humor.
 
-1. ##Code examples:
+##Code examples##
 ```function isPalindrome(str) {
     let strLen = str.length;
     let result = '';
