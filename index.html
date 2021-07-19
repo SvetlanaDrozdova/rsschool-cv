@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Svetlana Drozdova</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300,100&subset=cyrillic,latin" >
+  </head>
+  <body>
+    <header class="page-header container">
+      <img  src="images/owl.jpg" alt="Photo" width="250">
+      <div class="header-content">
+        <h1>Hi! I'm <span class="name">Svetlana Drozdova</span></h1>
+        <p>You can contact me via email <span class="email">sdrozdova032@gmail.com</span></p>
+      </div>
+    </header>
+    <main class="main-content container">
+      <section class="summary">
+        <h2>Summary</h2>
+        <p>I haven't got a wide experience in web-programming. So my goal is to perfect my knowledge 
+        of web-programming languages and to gain new skills by taking this course.</p>
+      </section>
+      <section class="education">
+        <h2>Education</h2>
+        <div class="description">
+          <p>Povolzhskiy State University of Telecommunications and Informatics, department of 
+          Information Systems and Technologies</p>
+          <p>Courses HTML Academy</p>
+        </div>
+      </section>
+      <section class="english-level">
+        <h2>English level</h2>
+        <p>B1 Intermediate</p>
+      </section>
+      <section class="work-experience">
+        <h2>Work experience</h2>
+        <div class="description">
+          <p>IT Specialist, 2014 - present</p>
+          <p>Maintain of 100 plus PC's in office and distant filial branches.</p>
+          <p>Provide assistance in computer software and hardware troubleshooting.</p>
+          <p>Eliminate system security violations, malware and virus attacks.</p>
+        </div>
+      </section>
+      <section class="skills">
+        <h2>Technical skills</h2>
+        <p>HTML, CSS, VS Code, Photoshop, Figma, Inkscape, VSDC</p>
+      </section>
+      <section class="personal-qualities">
+        <h2>Personal qualities</h2>
+        <p>eager to learn, highly organized, hard-working, purposful, communicative with good sence of humor</p>
+      </section>
+      <section class="code-examples">
+        <h2>Code examples</h2>
+        <div class="description">
+          <pre>
+            <code>function isPalindrome(str) {
+                    let strLen = str.length;
+                    let result = '';
+                    for (let i = 0; i < strLen; i++) {
+                      if (str[i] === str[strLen - 1 - i]) { 
+                      result = 'true';
+                      }
+                        else {
+                          result = 'false';
+                          return result;
+                        }   
+                    }
+                    return result;
+                  }
+                  isPalindrome('1233215');
+
+                  function compare (a, b) {
+                    y = a.split("").sort();
+                    z = b.split("").sort();
+                    for (i = 0; i < y.length; i++) {
+                      if (y.length === z.length) {
+                        if (y[i] === z[i]) {
+                          console.log(a + " and " + b + " are anagrams!");
+                          break;
+                        }
+                        else {
+                          console.log(a + " and " + b + " are not anagrams.");
+                          break;
+                        }
+                      }
+                      else {
+                        console.log(a + " has a different amount of letters than " + b);
+                      }
+                      break;
+                    }
+                  } 
+                  compare("mary", "arms");
+            </code>
+          </pre>
+        </div>
+      </section>
+    </main>
+    <footer class="page-footer container">
+      <a class="my-github" href="https://github.com/SvetlanaDrozdova" target="blank">My GitHub account</a>
+      <a class="rsscool" href="https://rs.school/js/" target="blank"><img src="images/rslogo.jpg" alt="RSSchool" width="150"></a>
+      <p class="year">2021</p>
+      <button class="up-button0" type="button">&uarr;<span class="visually-hidden">Наверх</span></button>
+    </footer>
+    <script src="up-button.js"></script>
+  </body>
+</html>
