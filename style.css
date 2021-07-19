@@ -154,6 +154,11 @@ h2 {
   margin-bottom: 20px;
 }
 
+ul{
+  list-style-type: disc;
+  margin-left: 15px;
+}
+
 /*Footer*/
 
 .page-footer {
